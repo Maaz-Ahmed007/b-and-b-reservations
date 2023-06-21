@@ -14,7 +14,7 @@ import getCurrentUser from './actions/getCurrentUser';
 
 export const metadata = {
     title: 'B&D Reservations',
-    description: 'Airbnb Clone',
+    description: "Builders and Developer's reservation Website",
 }
 
 const font = Nunito({
